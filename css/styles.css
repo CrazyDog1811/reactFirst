@@ -1,0 +1,209 @@
+
+header>img {
+    position: absolute;
+    z-index: -1;
+}
+header ul li a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+}
+header h2 {
+    margin-top: 205px;
+    font-family: 'DroidSerif';
+    font-size: 40px;
+    color: #ffffff;
+    font-style: italic;
+}
+header h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 75px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.btnk {
+    margin-top: 60px;
+    margin-bottom: 150px;
+    width: 240px;
+    height: 65px;
+}
+.services h6 {
+margin-bottom: 120px;
+}
+.portfolio {
+    background-color: #f7f7f7;
+}
+main h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #222222;
+    text-transform: uppercase;
+    margin-top: 120px;
+    text-align: center;
+}
+main h4 {
+    font-family: 'DroidSerif';
+    font-size: 16px;
+    color: #777777;
+    font-style: italic;
+    margin-bottom: 80px;
+    text-align: center;
+}
+main h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #222222;
+    text-align: center;
+    margin-top: 30px;
+}
+main h6  {
+    font-family: 'DroidSerif';
+    font-size: 14px;
+    color: #777777;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.circle {
+    margin: auto;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    border: 2px solid #fed136;
+    padding-top: 10px;
+}
+.about h5 {
+    margin-top: 10px;
+}
+.about p {
+    font-family: 'DroidSerif';
+    font-size: 14px;
+    color: #777777;
+    font-style: italic;
+    max-width: 275px; 
+}
+.about img {
+    margin-bottom: 90px;
+}
+.circlus {
+    width: 183px;
+    height: 183px;
+    border-radius: 50%;
+    background-color: #fed136;
+    border: 5px solid #f1f1f1;
+    margin-bottom: 120px;
+}
+.about .circlus p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;  
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 40px;
+}
+.team {
+    background-color: #f1f1f1;
+}
+.circlebl {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    background-color: #111111;
+    border: 5px solid #ffffff;
+    margin: auto;
+}
+.circlesoc {
+    display: block;
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    border: 3px solid #222222;
+    padding-top: 5px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.team .circlesoc.facebook {
+    background-color: #3b5998;  
+}
+.team .circlesoc.twitter {
+    background-color: #00aced;
+}
+.team .circlesoc.pinterest {
+    background-color: #cd2028;
+}
+.team .pad {
+    margin-bottom: 15px;
+}
+.team p {
+    font-family: 'RobotoSlab';
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 120px;
+}
+.logos {
+    min-height: 165px;
+    padding-top: 60px;
+}
+footer img {
+    position: absolute;
+    z-index: -1;
+}
+footer img:nth-last-of-type(1) {
+    left: 50%;
+}
+footer h3 {
+    margin-top: 110px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+footer h4 {
+    font-family: 'DroidSerif';
+    font-size: 16px;
+    color: #777777;
+    font-style: italic;
+    margin-bottom: 80px;
+    text-align: center;
+}
+footer input {
+    margin-bottom: 18px;
+}
+textarea {
+    margin-bottom: 50px;
+}
+.btnfooter {
+    width: 240px;
+    height: 65px;
+    background-color: #fed136;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 130px;
+}
+footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #555555;
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.circlesoc2 {
+    display: block;
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    border: 3px solid #222222;
+    padding-top: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: #222222;
+}
